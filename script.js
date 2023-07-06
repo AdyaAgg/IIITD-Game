@@ -4,7 +4,7 @@ import { updateDino, setupDino, getDinoRect, setDinoLose } from "./dino.js"
 import { updateCactus, setupCactus, getCactusRects } from "./cactus.js"
 
 const WORLD_WIDTH = 100
-const WORLD_HEIGHT = 46.5
+const WORLD_HEIGHT = 48.5
 const SPEED_SCALE_INCREASE = 0.00001
 
 const worldElem = document.querySelector("[data-world]")
