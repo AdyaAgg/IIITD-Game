@@ -75,7 +75,7 @@ body {
 .ground {
   --left: 0;
   position: absolute;
-  width: 150%;
+  width: 170%;
   bottom: -20%;
   left: calc(var(--left) * 1%)
 }
