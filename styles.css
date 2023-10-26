@@ -99,7 +99,7 @@ body {
   --left: ;
   position: absolute;
   height: 60%;
-  bottom: 15%;
+  bottom: 13%;
   left: calc(var(--left) * 1%)
 }
 
