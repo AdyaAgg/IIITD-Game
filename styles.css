@@ -76,7 +76,7 @@ body {
   --left: 0;
   position: absolute;
   width: 150%;
-  bottom: -16%;
+  bottom: -20%;
   left: calc(var(--left) * 1%)
 }
 
