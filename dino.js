@@ -42,18 +42,18 @@ export function getDinoRect() {
 }
 
 export function setDinoLose() {
-  dinoElem.src = `finalgame/exportedGraphics/characterf2.png`
+  dinoElem.src = `assets/exportedGraphics/characterf2.png`
 }
 
 function handleRun(delta, speedScale) {
   if (isJumping) {
-    dinoElem.src = `finalgame/exportedGraphics/characterf1.png`
+    dinoElem.src = `assets/exportedGraphics/characterf1.png`
     return
   }
 
   if (currentFrameTime >= FRAME_TIME) {
     dinoFrame = (dinoFrame + 1) % DINO_FRAME_COUNT
-    dinoElem.src = `finalgame/exportedGraphics/characterf${dinoFrame}.png`
+    dinoElem.src = `assets/exportedGraphics/characterf${dinoFrame}.png`
     currentFrameTime -= FRAME_TIME
   }
   currentFrameTime += delta * speedScale

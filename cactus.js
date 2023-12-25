@@ -51,7 +51,7 @@ function createCactus() {
   const cactus = document.createElement("img")
   if (currentValue>=43) cactus.dataset.catus=false
   else (cactus.dataset.cactus = true)
-  cactus.src = `finalgame/exportedGraphics/icons/PNG/Asset ${currentValue}.png` 
+  cactus.src = `assets/exportedGraphics/icons/PNG/Asset ${currentValue}.png` 
   cactus.classList.add("cactus")
   
   setCustomProperty(cactus, "--left", 100)

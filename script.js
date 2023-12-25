@@ -92,7 +92,7 @@ function updateScore(delta) {
 
 export function audioPlay(vari){
   const audio = new Audio();
-  audio.src=`./finalgame/${vari}.mp3`
+  audio.src=`./assets/${vari}.mp3`
   audio.currentTime=0
   audio.play() 
 }

@@ -6,11 +6,11 @@
 
 @font-face {
   font-family: 'kemko';
-  src: url("finalgame/kemko.ttf");
+  src: url("assets/kemko.ttf");
 }
 
 body {
-  background-image: url("finalgame/exportedGraphics/SVG/Asset\ 1.svg");
+  background-image: url("assets/Asset\ 1.svg");
   background-repeat: repeat-x;
   margin: 0;
   display: flex;
@@ -108,11 +108,12 @@ body {
   height: 350px;
 }
 
-#gameovergif{
+#gameovergif {
   position: absolute;
   left: 37%;
   bottom: 50%;
-  width: 24.5%;
+  width: 7.5%;
+  height: auto; /* This will preserve the aspect ratio */
 }
 
 #gamewingif{
