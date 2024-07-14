@@ -9,7 +9,7 @@ Challenging obstacles: Navigate through obstacles such as lecture halls, researc
 Realistic physics: Enjoy smooth gameplay with realistic physics for jumping and collision detection.\
 Scoring system: Keep track of your progress with a score that represents how far you've made it through the year.\
 Responsive design: Play the game on various devices and screen sizes with responsive HTML and CSS.\
-\
+
 
 # Rules
 Use the Space key to jump over obstacles.\
