@@ -8,7 +8,7 @@ Custom graphics: All in-game assets, including buildings and obstacles, are desi
 Challenging obstacles: Navigate through obstacles such as lecture halls, research and development blocks, exams, and more.\
 Realistic physics: Enjoy smooth gameplay with realistic physics for jumping and collision detection.\
 Scoring system: Keep track of your progress with a score that represents how far you've made it through the year.\
-Responsive design: Play the game on various devices and screen sizes with responsive HTML and CSS.\
+Responsive design: Play the game on various devices and screen sizes with responsive HTML and CSS.
 
 
 # Rules
