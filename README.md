@@ -16,4 +16,4 @@ Use the Space key to jump over obstacles.\
 Avoid colliding with obstacles to progress through the academic year.\
 Your score increases as you successfully clear obstacles.\
 Colliding with an obstacle results in repeating your first year.\
-See how far you can make it and challenge your friends to beat your score.\
+See how far you can make it and challenge your friends to beat your score.
